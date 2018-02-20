@@ -1,5 +1,5 @@
 # election_closeness
-A better measure of how close an (American) election was. -ln(fraction of total votes that would have to switch).
+A better measure of how close an (American) election was. -ln(minimum optimally allocated flipped votes / total votes). Non-trivial part: finding the optimal allocation of the votes.
 
 ## Results
 The 2016 election was the 7th closest American election according to my measure. This is summarized in the table below
