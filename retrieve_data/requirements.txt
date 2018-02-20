@@ -1,0 +1,16 @@
+beautifulsoup4==4.6.0
+bs4==0.0.1
+certifi==2018.1.18
+chardet==3.0.4
+cssselect==1.0.3
+idna==2.6
+linecache2==1.0.0
+lxml==4.1.1
+pyquery==1.4.0
+requests==2.18.4
+selenium==3.9.0
+six==1.11.0
+traceback2==1.4.0
+unittest2==1.1.0
+urllib3==1.22
+xvfbwrapper==0.2.9

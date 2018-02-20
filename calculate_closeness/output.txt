@@ -1,0 +1,886 @@
+Year: 1824
+Top two candidates were Jackson (99) and Adams (84). 131 electoral votes were needed to win.
+Adams needed at least 47 additional electoral votes
+Minimum switched votes needed to swing the election: 7070
+Optimal allocation of those switched votes: 
+1012 additional votes in New Jersey (8)
+3488 additional votes in Ohio (16)
+2570 additional votes in Virginia (24)
+These added votes would have yielded an additional 48 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 3.94658
+
+Year: 1828
+Top two candidates were Jackson (178) and Adams (83). 131 electoral votes were needed to win.
+Adams needed at least 48 additional electoral votes
+Minimum switched votes needed to swing the election: 6026
+Optimal allocation of those switched votes: 
+3925 additional votes in New York (36)
+2101 additional votes in Ohio (16)
+These added votes would have yielded an additional 52 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.25075
+
+Year: 1832
+Top two candidates were Jackson (219) and Clay (49). 135 electoral votes were needed to win.
+Clay needed at least 86 additional electoral votes
+Minimum switched votes needed to swing the election: 13400
+Optimal allocation of those switched votes: 
+740 additional votes in Louisiana (5)
+3324 additional votes in Maine (10)
+181 additional votes in New Jersey (8)
+6801 additional votes in New York (42)
+2354 additional votes in Ohio (21)
+These added votes would have yielded an additional 86 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.56226
+
+Year: 1836
+Top two candidates were Van Bu. (170) and Harris. (73). 142 electoral votes were needed to win.
+Harris. needed at least 69 additional electoral votes
+Minimum switched votes needed to swing the election: 15935
+Optimal allocation of those switched votes: 
+248 additional votes in Connecticut (8)
+1575 additional votes in Illinois (5)
+1922 additional votes in Louisiana (5)
+4012 additional votes in Maine (10)
+789 additional votes in Michigan (3)
+5149 additional votes in Mississippi (4)
+2112 additional votes in Pennsylvania (30)
+128 additional votes in Rhode Island (4)
+These added votes would have yielded an additional 69 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.54657
+
+Year: 1840
+Top two candidates were Harris. (234) and Van Bu. (60). 148 electoral votes were needed to win.
+Van Bu. needed at least 88 additional electoral votes
+Minimum switched votes needed to swing the election: 8174
+Optimal allocation of those switched votes: 
+212 additional votes in Maine (10)
+1159 additional votes in New Jersey (8)
+6635 additional votes in New York (42)
+168 additional votes in Pennsylvania (30)
+These added votes would have yielded an additional 90 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.68754
+
+Year: 1844
+Top two candidates were Polk (170) and Clay (105). 138 electoral votes were needed to win.
+Clay needed at least 33 additional electoral votes
+Minimum switched votes needed to swing the election: 2554
+Optimal allocation of those switched votes: 
+2554 additional votes in New York (36)
+These added votes would have yielded an additional 36 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 6.96478
+
+Year: 1848
+Top two candidates were Taylor (163) and Cass (127). 146 electoral votes were needed to win.
+Cass needed at least 19 additional electoral votes
+Minimum switched votes needed to swing the election: 3195
+Optimal allocation of those switched votes: 
+266 additional votes in Delaware (3)
+1374 additional votes in Georgia (10)
+1555 additional votes in Louisiana (6)
+These added votes would have yielded an additional 19 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 6.80285
+
+Year: 1852
+Top two candidates were Pierce (254) and Scott (42). 149 electoral votes were needed to win.
+Scott needed at least 107 additional electoral votes
+Minimum switched votes needed to swing the election: 31739
+Optimal allocation of those switched votes: 
+1446 additional votes in Connecticut (6)
+13 additional votes in Delaware (3)
+954 additional votes in Iowa (4)
+697 additional votes in Louisiana (6)
+2473 additional votes in Maryland (8)
+4417 additional votes in Missouri (9)
+2875 additional votes in New Jersey (7)
+373 additional votes in North Carolina (10)
+8206 additional votes in Ohio (23)
+9730 additional votes in Pennsylvania (27)
+555 additional votes in Rhode Island (4)
+These added votes would have yielded an additional 107 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.60067
+
+Year: 1856
+Top two candidates were Buchan. (174) and Fremont (114). 149 electoral votes were needed to win.
+Fremont needed at least 35 additional electoral votes
+Minimum switched votes needed to swing the election: 33106
+Optimal allocation of those switched votes: 
+3848 additional votes in Delaware (3)
+3180 additional votes in Florida (3)
+4627 additional votes in Illinois (11)
+12148 additional votes in Indiana (13)
+9303 additional votes in New Jersey (7)
+These added votes would have yielded an additional 37 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.80715
+
+Year: 1860
+Top two candidates were Lincoln (180) and Brecki. (72). 152 electoral votes were needed to win.
+Brecki. needed at least 80 additional electoral votes
+Minimum switched votes needed to swing the election: 69672
+Optimal allocation of those switched votes: 
+2383 additional votes in California (4)
+6458 additional votes in Kentucky (12)
+13720 additional votes in Missouri (9)
+136 additional votes in Oregon (3)
+44580 additional votes in Pennsylvania (27)
+2316 additional votes in Tennessee (12)
+79 additional votes in Virginia (15)
+These added votes would have yielded an additional 82 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.20753
+
+Year: 1864
+Top two candidates were Lincoln (212) and McClel. (21). 117 electoral votes were needed to win.
+McClel. needed at least 96 additional electoral votes
+Minimum switched votes needed to swing the election: 32733
+Optimal allocation of those switched votes: 
+1203 additional votes in Connecticut (6)
+3708 additional votes in Maryland (7)
+5319 additional votes in Michigan (8)
+3845 additional votes in Minnesota (4)
+1782 additional votes in New Hampshire (5)
+3375 additional votes in New York (33)
+716 additional votes in Oregon (3)
+10038 additional votes in Pennsylvania (26)
+2747 additional votes in Rhode Island (4)
+These added votes would have yielded an additional 96 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.81021
+
+Year: 1868
+Top two candidates were Grant (214) and Seymour (80). 148 electoral votes were needed to win.
+Seymour needed at least 68 additional electoral votes
+Minimum switched votes needed to swing the election: 27122
+Optimal allocation of those switched votes: 
+1874 additional votes in Alabama (8)
+1518 additional votes in Arkansas (5)
+261 additional votes in California (5)
+1473 additional votes in Connecticut (6)
+4787 additional votes in Indiana (13)
+2127 additional votes in Nebraska (3)
+632 additional votes in Nevada (3)
+14450 additional votes in Pennsylvania (26)
+These added votes would have yielded an additional 69 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.35187
+
+Year: 1872
+Top two candidates were Grant (286) and Greeley (66). 177 electoral votes were needed to win.
+Greeley needed at least 111 additional electoral votes
+Minimum switched votes needed to swing the election: 67037
+Optimal allocation of those switched votes: 
+5415 additional votes in Alabama (10)
+2310 additional votes in Connecticut (6)
+463 additional votes in Delaware (3)
+1169 additional votes in Florida (4)
+11258 additional votes in Indiana (15)
+1089 additional votes in Nevada (3)
+2872 additional votes in New Hampshire (5)
+26729 additional votes in New York (35)
+4169 additional votes in Rhode Island (4)
+909 additional votes in Virginia (11)
+1395 additional votes in West Virginia (5)
+9259 additional votes in Wisconsin (10)
+These added votes would have yielded an additional 111 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.56999
+
+Year: 1876
+Top two candidates were Hayes (185) and Tilden (184). 185 electoral votes were needed to win.
+Tilden needed at least 1 additional electoral votes
+Minimum switched votes needed to swing the election: 445
+Optimal allocation of those switched votes: 
+445 additional votes in South Carolina (7)
+These added votes would have yielded an additional 7 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 9.84789
+
+Year: 1880
+Top two candidates were Garfie. (214) and Hancock (155). 185 electoral votes were needed to win.
+Hancock needed at least 30 additional electoral votes
+Minimum switched votes needed to swing the election: 8418
+Optimal allocation of those switched votes: 
+1402 additional votes in Colorado (3)
+1331 additional votes in Connecticut (6)
+3322 additional votes in Indiana (15)
+2030 additional votes in New Hampshire (5)
+333 additional votes in Oregon (3)
+These added votes would have yielded an additional 32 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 6.99848
+
+Year: 1884
+Top two candidates were Clevel. (219) and Blaine (182). 201 electoral votes were needed to win.
+Blaine needed at least 19 additional electoral votes
+Minimum switched votes needed to swing the election: 575
+Optimal allocation of those switched votes: 
+575 additional votes in New York (36)
+These added votes would have yielded an additional 36 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 9.76972
+
+Year: 1888
+Top two candidates were Harris. (233) and Clevel. (168). 201 electoral votes were needed to win.
+Clevel. needed at least 33 additional electoral votes
+Minimum switched votes needed to swing the election: 7187
+Optimal allocation of those switched votes: 
+7187 additional votes in New York (36)
+These added votes would have yielded an additional 36 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 7.36812
+
+Year: 1892
+Top two candidates were Clevel. (277) and Harris. (145). 223 electoral votes were needed to win.
+Harris. needed at least 78 additional electoral votes
+Minimum switched votes needed to swing the election: 24488
+Optimal allocation of those switched votes: 
+74 additional votes in California (9)
+253 additional votes in Delaware (3)
+961 additional votes in Idaho (3)
+13497 additional votes in Illinois (24)
+3563 additional votes in Indiana (15)
+2936 additional votes in Kansas (10)
+91 additional votes in North Dakota (3)
+3113 additional votes in Wisconsin (12)
+These added votes would have yielded an additional 79 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 6.20013
+
+Year: 1896
+Top two candidates were McKinl. (271) and Bryan (176). 224 electoral votes were needed to win.
+Bryan needed at least 48 additional electoral votes
+Minimum switched votes needed to swing the election: 18602
+Optimal allocation of those switched votes: 
+962 additional votes in California (9)
+1939 additional votes in Delaware (3)
+9091 additional votes in Indiana (15)
+139 additional votes in Kentucky (13)
+1021 additional votes in Oregon (4)
+5450 additional votes in West Virginia (6)
+These added votes would have yielded an additional 50 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 6.61915
+
+Year: 1900
+Top two candidates were McKinl. (292) and Bryan (155). 224 electoral votes were needed to win.
+Bryan needed at least 69 additional electoral votes
+Minimum switched votes needed to swing the election: 73232
+Optimal allocation of those switched votes: 
+1842 additional votes in Delaware (3)
+13240 additional votes in Indiana (15)
+11678 additional votes in Kansas (10)
+6974 additional votes in Maryland (8)
+3912 additional votes in Nebraska (8)
+34519 additional votes in Ohio (23)
+1067 additional votes in Utah (3)
+These added votes would have yielded an additional 70 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.25117
+
+Year: 1904
+Top two candidates were Roosev. (336) and Parker (140). 239 electoral votes were needed to win.
+Parker needed at least 99 additional electoral votes
+Minimum switched votes needed to swing the election: 169757
+Optimal allocation of those switched votes: 
+19091 additional votes in Connecticut (7)
+2180 additional votes in Delaware (3)
+26 additional votes in Maryland (8)
+12569 additional votes in Missouri (18)
+6580 additional votes in Montana (3)
+1442 additional votes in Nevada (3)
+10045 additional votes in New Hampshire (4)
+87777 additional votes in New York (39)
+8384 additional votes in Rhode Island (4)
+15883 additional votes in West Virginia (7)
+5780 additional votes in Wyoming (3)
+These added votes would have yielded an additional 99 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.37798
+
+Year: 1908
+Top two candidates were Taft (321) and Bryan (162). 242 electoral votes were needed to win.
+Bryan needed at least 80 additional electoral votes
+Minimum switched votes needed to swing the election: 59955
+Optimal allocation of those switched votes: 
+1480 additional votes in Delaware (3)
+5366 additional votes in Indiana (15)
+303 additional votes in Maryland (8)
+315 additional votes in Missouri (18)
+1504 additional votes in Montana (3)
+34796 additional votes in Ohio (23)
+13226 additional votes in West Virginia (7)
+2965 additional votes in Wyoming (3)
+These added votes would have yielded an additional 80 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.51479
+
+Year: 1912
+Top two candidates were Wilson (435) and Roosev. (88). 266 electoral votes were needed to win.
+Roosev. needed at least 178 additional electoral votes
+Minimum switched votes needed to swing the election: 214209
+Optimal allocation of those switched votes: 
+29880 additional votes in Alabama (12)
+1688 additional votes in Arizona (3)
+6873 additional votes in Delaware (3)
+4198 additional votes in Idaho (4)
+9286 additional votes in Illinois (29)
+11754 additional votes in Iowa (13)
+11727 additional votes in Kansas (10)
+25795 additional votes in Louisiana (10)
+1310 additional votes in Maine (6)
+15591 additional votes in Massachusetts (18)
+2743 additional votes in Montana (4)
+18164 additional votes in Nebraska (8)
+1184 additional votes in Nevada (3)
+8466 additional votes in New Hampshire (4)
+16440 additional votes in New Jersey (14)
+6046 additional votes in New Mexico (3)
+1915 additional votes in North Dakota (5)
+4733 additional votes in Oregon (5)
+6768 additional votes in Rhode Island (5)
+8964 additional votes in Utah (4)
+601 additional votes in Vermont (4)
+17043 additional votes in West Virginia (8)
+3040 additional votes in Wyoming (3)
+These added votes would have yielded an additional 178 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.25195
+
+Year: 1916
+Top two candidates were Wilson (277) and Hughes (254). 266 electoral votes were needed to win.
+Hughes needed at least 12 additional electoral votes
+Minimum switched votes needed to swing the election: 1887
+Optimal allocation of those switched votes: 
+1887 additional votes in California (13)
+These added votes would have yielded an additional 13 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 9.19277
+
+Year: 1920
+Top two candidates were Harding (404) and Cox (127). 266 electoral votes were needed to win.
+Cox needed at least 139 additional electoral votes
+Minimum switched votes needed to swing the election: 596492
+Optimal allocation of those switched votes: 
+3736 additional votes in Arizona (3)
+34157 additional votes in Colorado (6)
+54259 additional votes in Connecticut (7)
+6474 additional votes in Delaware (3)
+21199 additional votes in Idaho (4)
+92504 additional votes in Indiana (15)
+38698 additional votes in Maine (6)
+27746 additional votes in Maryland (8)
+76182 additional votes in Missouri (18)
+26030 additional votes in Montana (4)
+2815 additional votes in Nevada (3)
+16268 additional votes in New Hampshire (4)
+5484 additional votes in New Mexico (3)
+13390 additional votes in Oklahoma (10)
+31787 additional votes in Oregon (5)
+26201 additional votes in Rhode Island (5)
+37378 additional votes in South Dakota (5)
+6636 additional votes in Tennessee (12)
+12459 additional votes in Utah (4)
+23647 additional votes in Vermont (4)
+30610 additional votes in West Virginia (8)
+8832 additional votes in Wyoming (3)
+These added votes would have yielded an additional 140 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 3.80465
+
+Year: 1924
+Top two candidates were Coolid. (382) and Davis (136). 266 electoral votes were needed to win.
+Davis needed at least 130 additional electoral votes
+Minimum switched votes needed to swing the election: 549426
+Optimal allocation of those switched votes: 
+2141 additional votes in Arizona (3)
+9499 additional votes in Delaware (3)
+22812 additional votes in Idaho (4)
+105399 additional votes in Indiana (15)
+12056 additional votes in Kentucky (13)
+48239 additional votes in Maine (6)
+7172 additional votes in Maryland (8)
+37867 additional votes in Missouri (18)
+20167 additional votes in Montana (4)
+40649 additional votes in Nebraska (8)
+2668 additional votes in Nevada (3)
+20688 additional votes in New Hampshire (4)
+3102 additional votes in New Mexico (3)
+40537 additional votes in North Dakota (5)
+37496 additional votes in Oregon (5)
+24341 additional votes in Rhode Island (5)
+37043 additional votes in South Dakota (5)
+15164 additional votes in Utah (4)
+32188 additional votes in Vermont (4)
+15702 additional votes in West Virginia (8)
+14496 additional votes in Wyoming (3)
+These added votes would have yielded an additional 131 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 3.96937
+
+Year: 1928
+Top two candidates were Hoover (444) and Smith (87). 266 electoral votes were needed to win.
+Smith needed at least 179 additional electoral votes
+Minimum switched votes needed to swing the election: 411248
+Optimal allocation of those switched votes: 
+6999 additional votes in Arizona (3)
+22279 additional votes in Connecticut (7)
+21203 additional votes in Florida (6)
+38927 additional votes in Maryland (8)
+85760 additional votes in Missouri (18)
+17362 additional votes in Montana (4)
+2119 additional votes in Nevada (3)
+17345 additional votes in New Hampshire (4)
+10718 additional votes in New Mexico (3)
+51741 additional votes in New York (45)
+31349 additional votes in North Carolina (12)
+12397 additional votes in North Dakota (5)
+14023 additional votes in Tennessee (12)
+13003 additional votes in Texas (20)
+6817 additional votes in Utah (4)
+12232 additional votes in Virginia (12)
+46974 additional votes in Wisconsin (13)
+These added votes would have yielded an additional 179 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.4943
+
+Year: 1932
+Top two candidates were Roosev. (472) and Hoover (59). 266 electoral votes were needed to win.
+Hoover needed at least 207 additional electoral votes
+Minimum switched votes needed to swing the election: 874622
+Optimal allocation of those switched votes: 
+21581 additional votes in Arizona (3)
+30631 additional votes in Colorado (6)
+19032 additional votes in Idaho (4)
+37354 additional votes in Kansas (9)
+31595 additional votes in Massachusetts (17)
+65904 additional votes in Michigan (19)
+8042 additional votes in Nevada (3)
+15474 additional votes in New Jersey (16)
+20437 additional votes in New Mexico (3)
+298499 additional votes in New York (47)
+37189 additional votes in Ohio (26)
+38927 additional votes in Oregon (5)
+15670 additional votes in Rhode Island (4)
+50185 additional votes in South Carolina (8)
+66361 additional votes in Tennessee (11)
+15978 additional votes in Utah (4)
+57172 additional votes in Virginia (11)
+37197 additional votes in West Virginia (8)
+7394 additional votes in Wyoming (3)
+These added votes would have yielded an additional 207 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 3.81664
+
+Year: 1936
+Top two candidates were Roosev. (523) and Landon (8). 266 electoral votes were needed to win.
+Landon needed at least 258 additional electoral votes
+Minimum switched votes needed to swing the election: 1947814
+Optimal allocation of those switched votes: 
+101420 additional votes in Alabama (11)
+26645 additional votes in Arizona (3)
+57364 additional votes in Arkansas (9)
+51723 additional votes in Connecticut (8)
+6234 additional votes in Delaware (3)
+109212 additional votes in Georgia (12)
+29714 additional votes in Idaho (4)
+121703 additional votes in Indiana (14)
+66890 additional votes in Iowa (11)
+33397 additional votes in Kansas (9)
+86122 additional votes in Kentucky (11)
+79089 additional votes in Maryland (8)
+87052 additional votes in Massachusetts (17)
+158531 additional votes in Michigan (19)
+76434 additional votes in Mississippi (9)
+49858 additional votes in Nebraska (7)
+10002 additional votes in Nevada (3)
+1910 additional votes in New Hampshire (4)
+22156 additional votes in New Mexico (3)
+45199 additional votes in North Dakota (4)
+331894 additional votes in Pennsylvania (36)
+20104 additional votes in Rhode Island (4)
+56073 additional votes in South Carolina (8)
+17081 additional votes in South Dakota (4)
+90282 additional votes in Tennessee (11)
+42846 additional votes in Utah (4)
+68323 additional votes in Virginia (11)
+88613 additional votes in West Virginia (8)
+11943 additional votes in Wyoming (3)
+These added votes would have yielded an additional 258 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 3.15439
+
+Year: 1940
+Top two candidates were Roosev. (449) and Willkie (82). 266 electoral votes were needed to win.
+Willkie needed at least 184 additional electoral votes
+Minimum switched votes needed to swing the election: 426514
+Optimal allocation of those switched votes: 
+27902 additional votes in Connecticut (8)
+6580 additional votes in Delaware (3)
+10645 additional votes in Idaho (4)
+51348 additional votes in Illinois (29)
+23962 additional votes in Minnesota (11)
+43734 additional votes in Missouri (15)
+5359 additional votes in Nevada (3)
+7583 additional votes in New Hampshire (4)
+35667 additional votes in New Jersey (16)
+12193 additional votes in New Mexico (3)
+112221 additional votes in New York (47)
+73184 additional votes in Ohio (26)
+12808 additional votes in Wisconsin (12)
+3328 additional votes in Wyoming (3)
+These added votes would have yielded an additional 184 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.76239
+
+Year: 1944
+Top two candidates were Roosev. (432) and Dewey (99). 266 electoral votes were needed to win.
+Dewey needed at least 167 additional electoral votes
+Minimum switched votes needed to swing the election: 278659
+Optimal allocation of those switched votes: 
+22310 additional votes in Connecticut (8)
+5710 additional votes in Delaware (3)
+3632 additional votes in Idaho (4)
+70083 additional votes in Illinois (28)
+11271 additional votes in Maryland (8)
+11239 additional votes in Michigan (19)
+31225 additional votes in Minnesota (11)
+23141 additional votes in Missouri (15)
+9697 additional votes in Montana (4)
+2507 additional votes in Nevada (3)
+4874 additional votes in New Hampshire (4)
+13270 additional votes in New Jersey (16)
+5351 additional votes in New Mexico (4)
+11636 additional votes in Oregon (6)
+52713 additional votes in Pennsylvania (35)
+These added votes would have yielded an additional 168 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.14849
+
+Year: 1948
+Top two candidates were Truman (303) and Dewey (189). 266 electoral votes were needed to win.
+Dewey needed at least 77 additional electoral votes
+Minimum switched votes needed to swing the election: 29294
+Optimal allocation of those switched votes: 
+8933 additional votes in California (25)
+16807 additional votes in Illinois (28)
+3554 additional votes in Ohio (25)
+These added votes would have yielded an additional 78 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 7.41799
+
+Year: 1952
+Top two candidates were Eisenh. (442) and Steven. (89). 266 electoral votes were needed to win.
+Steven. needed at least 177 additional electoral votes
+Minimum switched votes needed to swing the election: 713453
+Optimal allocation of those switched votes: 
+21758 additional votes in Arizona (4)
+3373 additional votes in Delaware (3)
+49544 additional votes in Florida (10)
+52044 additional votes in Maryland (9)
+104401 additional votes in Massachusetts (16)
+14800 additional votes in Missouri (13)
+25591 additional votes in Montana (4)
+9408 additional votes in Nevada (3)
+29813 additional votes in New Hampshire (4)
+13255 additional votes in New Mexico (4)
+43554 additional votes in Oklahoma (8)
+134761 additional votes in Pennsylvania (32)
+3822 additional votes in Rhode Island (4)
+1219 additional votes in Tennessee (11)
+66826 additional votes in Texas (24)
+29414 additional votes in Utah (4)
+40181 additional votes in Virginia (12)
+53132 additional votes in Washington (9)
+16557 additional votes in Wyoming (3)
+These added votes would have yielded an additional 177 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.46076
+
+Year: 1956
+Top two candidates were Eisenh. (457) and Steven. (73). 266 electoral votes were needed to win.
+Steven. needed at least 193 additional electoral votes
+Minimum switched votes needed to swing the election: 1141553
+Optimal allocation of those switched votes: 
+32056 additional votes in Arizona (4)
+9319 additional votes in Delaware (3)
+81740 additional votes in Florida (10)
+30556 additional votes in Idaho (4)
+47870 additional votes in Kentucky (10)
+42536 additional votes in Louisiana (10)
+93563 additional votes in Maryland (9)
+176875 additional votes in Michigan (20)
+50889 additional votes in Minnesota (11)
+19348 additional votes in Montana (4)
+7705 additional votes in Nevada (3)
+43078 additional votes in New Hampshire (4)
+20346 additional votes in New Mexico (4)
+30013 additional votes in North Dakota (4)
+44095 additional votes in Oklahoma (8)
+38595 additional votes in Oregon (6)
+32015 additional votes in Rhode Island (4)
+24641 additional votes in South Dakota (4)
+2891 additional votes in Tennessee (11)
+110331 additional votes in Texas (24)
+48634 additional votes in Utah (4)
+59350 additional votes in Virginia (12)
+48715 additional votes in Washington (9)
+33882 additional votes in West Virginia (8)
+12510 additional votes in Wyoming (3)
+These added votes would have yielded an additional 193 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 3.9951
+
+Year: 1960
+Top two candidates were Kennedy (303) and Nixon (219). 262 electoral votes were needed to win.
+Nixon needed at least 43 additional electoral votes
+Minimum switched votes needed to swing the election: 9479
+Optimal allocation of those switched votes: 
+58 additional votes in Hawaii (3)
+4430 additional votes in Illinois (27)
+4991 additional votes in Missouri (13)
+These added votes would have yielded an additional 43 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 8.89035
+
+Year: 1964
+Top two candidates were Johnson (486) and Goldwa. (52). 270 electoral votes were needed to win.
+Goldwa. needed at least 218 additional electoral votes
+Minimum switched votes needed to swing the election: 2059257
+Optimal allocation of those switched votes: 
+10700 additional votes in Alaska (3)
+35467 additional votes in Arkansas (6)
+646385 additional votes in California (40)
+89629 additional votes in Colorado (6)
+22314 additional votes in Delaware (3)
+21300 additional votes in Florida (14)
+2682 additional votes in Idaho (4)
+129866 additional votes in Indiana (13)
+141942 additional votes in Iowa (9)
+38725 additional votes in Kansas (7)
+25608 additional votes in Montana (4)
+15231 additional votes in Nebraska (5)
+11623 additional votes in Nevada (3)
+40018 additional votes in New Hampshire (4)
+31090 additional votes in New Mexico (4)
+87648 additional votes in North Carolina (13)
+20789 additional votes in North Dakota (4)
+53585 additional votes in Oklahoma (8)
+109120 additional votes in Oregon (6)
+16452 additional votes in South Dakota (4)
+62992 additional votes in Tennessee (11)
+352310 additional votes in Texas (25)
+19474 additional votes in Utah (4)
+26593 additional votes in Vermont (3)
+38353 additional votes in Virginia (12)
+9361 additional votes in Wyoming (3)
+These added votes would have yielded an additional 218 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 3.53527
+
+Year: 1968
+Top two candidates were Nixon (301) and Humphr. (191). 270 electoral votes were needed to win.
+Humphr. needed at least 79 additional electoral votes
+Minimum switched votes needed to swing the election: 135284
+Optimal allocation of those switched votes: 
+1095 additional votes in Alaska (3)
+3761 additional votes in Delaware (3)
+10245 additional votes in Missouri (12)
+6296 additional votes in Nevada (3)
+30631 additional votes in New Jersey (17)
+45215 additional votes in Ohio (26)
+7444 additional votes in Vermont (3)
+30597 additional votes in Wisconsin (12)
+These added votes would have yielded an additional 79 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 6.29357
+
+Year: 1972
+Top two candidates were Nixon (520) and McGove. (17). 269 electoral votes were needed to win.
+McGove. needed at least 252 additional electoral votes
+Minimum switched votes needed to swing the election: 3153776
+Optimal allocation of those switched votes: 
+11192 additional votes in Alaska (3)
+102137 additional votes in Arizona (6)
+563125 additional votes in California (45)
+127633 additional votes in Connecticut (8)
+24038 additional votes in Delaware (3)
+33729 additional votes in Hawaii (4)
+59280 additional votes in Idaho (4)
+105001 additional votes in Iowa (8)
+47938 additional votes in Maine (4)
+161763 additional votes in Maryland (10)
+251144 additional votes in Michigan (21)
+47962 additional votes in Minnesota (10)
+31890 additional votes in Montana (4)
+24868 additional votes in Nevada (3)
+48645 additional votes in New Hampshire (4)
+47262 additional votes in New Mexico (4)
+620848 additional votes in New York (41)
+36863 additional votes in North Dakota (3)
+46964 additional votes in Oregon (6)
+458786 additional votes in Pennsylvania (27)
+12870 additional votes in Rhode Island (4)
+13266 additional votes in South Dakota (4)
+24488 additional votes in Vermont (3)
+134401 additional votes in Washington (9)
+89629 additional votes in Wisconsin (11)
+28054 additional votes in Wyoming (3)
+These added votes would have yielded an additional 252 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 3.20482
+
+Year: 1976
+Top two candidates were Carter (297) and Ford (240). 269 electoral votes were needed to win.
+Ford needed at least 29 additional electoral votes
+Minimum switched votes needed to swing the election: 9246
+Optimal allocation of those switched votes: 
+3687 additional votes in Hawaii (4)
+5559 additional votes in Ohio (25)
+These added votes would have yielded an additional 29 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 9.08467
+
+Year: 1980
+Top two candidates were Reagan (489) and Carter (49). 270 electoral votes were needed to win.
+Carter needed at least 221 additional electoral votes
+Minimum switched votes needed to swing the election: 731189
+Optimal allocation of those switched votes: 
+8732 additional votes in Alabama (9)
+2562 additional votes in Arkansas (6)
+2750 additional votes in Delaware (3)
+188319 additional votes in Illinois (26)
+9429 additional votes in Kentucky (9)
+42201 additional votes in Louisiana (10)
+8775 additional votes in Maine (4)
+1915 additional votes in Massachusetts (14)
+126847 additional votes in Michigan (21)
+5905 additional votes in Mississippi (7)
+82730 additional votes in New York (41)
+19692 additional votes in North Carolina (13)
+162167 additional votes in Pennsylvania (27)
+6824 additional votes in South Carolina (8)
+2356 additional votes in Tennessee (10)
+6354 additional votes in Vermont (3)
+53631 additional votes in Wisconsin (11)
+These added votes would have yielded an additional 222 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 4.77334
+
+Year: 1984
+Top two candidates were Reagan (525) and Mondale (13). 270 electoral votes were needed to win.
+Mondale needed at least 257 additional electoral votes
+Minimum switched votes needed to swing the election: 2675811
+Optimal allocation of those switched votes: 
+38186 additional votes in Alaska (3)
+772246 additional votes in California (47)
+25268 additional votes in Delaware (3)
+181048 additional votes in Georgia (12)
+18949 additional votes in Hawaii (4)
+310303 additional votes in Illinois (24)
+48735 additional votes in Iowa (8)
+60993 additional votes in Maine (4)
+45992 additional votes in Maryland (10)
+35666 additional votes in Massachusetts (13)
+42855 additional votes in Montana (4)
+48558 additional votes in Nevada (4)
+52667 additional votes in New Mexico (5)
+272578 additional votes in New York (36)
+74611 additional votes in Oregon (7)
+178097 additional votes in Pennsylvania (25)
+7488 additional votes in Rhode Island (4)
+139250 additional votes in Tennessee (11)
+20068 additional votes in Vermont (3)
+122160 additional votes in Washington (10)
+38680 additional votes in West Virginia (6)
+101477 additional votes in Wisconsin (11)
+39936 additional votes in Wyoming (3)
+These added votes would have yielded an additional 257 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 3.54461
+
+Year: 1988
+Top two candidates were Bush (426) and Dukakis (111). 269 electoral votes were needed to win.
+Dukakis needed at least 158 additional electoral votes
+Minimum switched votes needed to swing the election: 537766
+Optimal allocation of those switched votes: 
+176343 additional votes in California (47)
+53363 additional votes in Colorado (8)
+36829 additional votes in Connecticut (8)
+15497 additional votes in Delaware (3)
+47500 additional votes in Illinois (24)
+31782 additional votes in Maine (4)
+24932 additional votes in Maryland (10)
+41668 additional votes in Missouri (11)
+10739 additional votes in Montana (4)
+12923 additional votes in New Mexico (5)
+19411 additional votes in North Dakota (3)
+52572 additional votes in Pennsylvania (25)
+9928 additional votes in South Dakota (3)
+4279 additional votes in Vermont (3)
+These added votes would have yielded an additional 158 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.13771
+
+Year: 1992
+Top two candidates were Clinton (370) and Bush (168). 270 electoral votes were needed to win.
+Bush needed at least 102 additional electoral votes
+Minimum switched votes needed to swing the election: 284837
+Optimal allocation of those switched votes: 
+33416 additional votes in Colorado (8)
+11871 additional votes in Delaware (3)
+6858 additional votes in Georgia (13)
+21245 additional votes in Hawaii (4)
+23964 additional votes in Kentucky (8)
+41293 additional votes in Louisiana (9)
+5151 additional votes in Montana (3)
+6661 additional votes in Nevada (4)
+3279 additional votes in New Hampshire (4)
+39671 additional votes in New Jersey (15)
+45317 additional votes in Ohio (21)
+46111 additional votes in Tennessee (11)
+These added votes would have yielded an additional 103 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.90432
+
+Year: 1996
+Top two candidates were Clinton (379) and Dole (159). 270 electoral votes were needed to win.
+Dole needed at least 111 additional electoral votes
+Minimum switched votes needed to swing the election: 575515
+Optimal allocation of those switched votes: 
+15608 additional votes in Arizona (8)
+151168 additional votes in Florida (25)
+63808 additional votes in Iowa (7)
+6666 additional votes in Kentucky (8)
+67960 additional votes in Missouri (11)
+2366 additional votes in Nevada (4)
+24842 additional votes in New Hampshire (4)
+20373 additional votes in New Mexico (5)
+144170 additional votes in Ohio (21)
+55745 additional votes in Oregon (7)
+22809 additional votes in Tennessee (11)
+These added votes would have yielded an additional 111 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.11971
+
+Year: 2000
+Top two candidates were Bush (271) and Gore (266). 269 electoral votes were needed to win.
+Gore needed at least 3 additional electoral votes
+Minimum switched votes needed to swing the election: 269
+Optimal allocation of those switched votes: 
+269 additional votes in Florida (25)
+These added votes would have yielded an additional 25 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 12.8788
+
+Year: 2004
+Top two candidates were Bush (286) and Kerry (251). 269 electoral votes were needed to win.
+Kerry needed at least 18 additional electoral votes
+Minimum switched votes needed to swing the election: 57791
+Optimal allocation of those switched votes: 
+49766 additional votes in Colorado (9)
+5030 additional votes in Iowa (7)
+2995 additional votes in New Mexico (5)
+These added votes would have yielded an additional 21 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 7.65743
+
+Year: 2008
+Top two candidates were Obama (365) and McCain (173). 270 electoral votes were needed to win.
+McCain needed at least 97 additional electoral votes
+Minimum switched votes needed to swing the election: 495165
+Optimal allocation of those switched votes: 
+118075 additional votes in Florida (27)
+14196 additional votes in Indiana (11)
+73281 additional votes in Iowa (7)
+34147 additional votes in New Hampshire (4)
+7089 additional votes in North Carolina (15)
+131113 additional votes in Ohio (20)
+117264 additional votes in Virginia (13)
+These added votes would have yielded an additional 97 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 5.58167
+
+Year: 2012
+Top two candidates were Obama (332) and Romney (206). 270 electoral votes were needed to win.
+Romney needed at least 64 additional electoral votes
+Minimum switched votes needed to swing the election: 214764
+Optimal allocation of those switched votes: 
+37155 additional votes in Florida (29)
+19822 additional votes in New Hampshire (4)
+83137 additional votes in Ohio (18)
+74650 additional votes in Virginia (13)
+These added votes would have yielded an additional 64 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 6.39987
+
+Year: 2016
+Top two candidates were Trump (304) and Clinton (227). 266 electoral votes were needed to win.
+Clinton needed at least 39 additional electoral votes
+Minimum switched votes needed to swing the election: 38875
+Optimal allocation of those switched votes: 
+5353 additional votes in Michigan (16)
+22147 additional votes in Pennsylvania (20)
+11375 additional votes in Wisconsin (10)
+These added votes would have yielded an additional 46 electoral votes
+The closeness (-ln(fraction of votes that would have to be switched)) of this election is 8.1683
+
