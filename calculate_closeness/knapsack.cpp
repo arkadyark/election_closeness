@@ -13,9 +13,6 @@ int KnapsackSolver::solve() {
         }
     }
 
-    std::cout << "Number of states: " << weights.size() << std::endl;
-    std::cout << "Max weight: " << maxWeight << std::endl;
-    std::cout << "Problem size: " << maxWeight * weights.size() << std::endl;
     // Fill the dynamic programming matrix
     for (int i = 1; i < weights.size(); i++) {
         for (int j = 0; j <= maxWeight; j++) {
