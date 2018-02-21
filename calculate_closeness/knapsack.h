@@ -11,6 +11,7 @@ class KnapsackSolver {
 
 public:
     KnapsackSolver(std::vector<int>& weights, std::vector<int>& values, int maxWeight) : weights(weights), values(values), maxWeight(maxWeight) {
+        // Create the matrix M to hold the solutions
         for (int i = 0; i < weights.size(); i++) {
             std::vector<int> row;
             for (int i = 0; i <= maxWeight; i++) {
@@ -20,7 +21,9 @@ public:
         }
     }
 
+    // Get the matrix M produced as a byproduct of solving
     std::vector<std::vector<int> > getM();
 
-    std::pair<std::vector<int>, int> solve();
+    // Solve the given knapsack problem
+    int solve();
 };
